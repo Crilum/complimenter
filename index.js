@@ -26,6 +26,13 @@ var tangibleSingularProperties = [
   "radiance",
   "face",
   "way of thinking",
+  "beauty",
+  "smile",
+  "wonder",
+  "greatness",
+  "lovelyness",
+  "talent",
+  "interest"
 ];
 
 var tangibleMultipleProperties = [
@@ -35,6 +42,7 @@ var tangibleMultipleProperties = [
   "ears",
   "ideas",
   "skills",
+  "thoughts",
 ];
 
 var adjectives = [
@@ -47,10 +55,12 @@ var adjectives = [
   "useful",
   "incredible",
   "pleasing",
+  "wonderful",
 ];
 
 var adverbs = [
   "absolutely",
+  "almost",
   "awfully",
   "completely",
   "decidedly",
@@ -61,6 +71,7 @@ var adverbs = [
   "highly",
   "incredibly",
   "intensely",
+  "nearly",
   "perfectly",
   "positively",
   "practically",
