@@ -1,7 +1,7 @@
 var finalTemplates = [
   function() { return "you have " + getAbstractProperty(); },
   function() { return "you are " + getDescriptor(); },
-  function() { return "this is " + getDescriptor(); },
+  //function() { return "this is " + getDescriptor(); },
   function() { return "I am " + getDescriptor(); },
 ];
 
