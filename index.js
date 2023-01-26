@@ -1,14 +1,16 @@
 var finalTemplates = [
-  function() { return "you have " + getAbstractProperty(); },
-  function() { return "you are " + getDescriptor(); },
-  function() { return "this is " + getDescriptor(); },
+  function() { return "You have " + getAbstractProperty(); },
+  function() { return "You are " + getDescriptor(); },
+  function() { return "This is " + getDescriptor(); },
+  function() { return "I am " + getDescriptor(); },
 ];
 
 var templates = [
-  function() { return "i've always thought " + getFinalTemplate(); },
+  function() { return "I've always thought " + getFinalTemplate(); },
   function() { return "9 out of 10 doctors say " + getFinalTemplate(); },
-  function() { return "people say " + getFinalTemplate(); },
-  function() { return "i think " + getFinalTemplate(); },
+  function() { return "People say " + getFinalTemplate(); },
+  function() { return "I think " + getFinalTemplate(); },
+  function() { return "You know, " + getFinalTemplate(); },
 ].concat(finalTemplates);
 
 var abstractProperties = [
