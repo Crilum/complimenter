@@ -20,24 +20,12 @@ console.log(complimenter());
 
 Installation
 ------------
-
-Available via [npm](http://npmjs.org/):
-
-> $ npm install complimenter
-
-Or via git:
-
-> $ git clone git://github.com/deoxxa/complimenter.git node_modules/complimenter
+> $ git clone https://github.com/Crilum/complimenter.git node_modules/complimenter
 
 License
 -------
 
 3-clause BSD. A copy is included with the source.
 
-Contact
--------
-
-* GitHub ([deoxxa](http://github.com/deoxxa))
-* Twitter ([@deoxxa](http://twitter.com/deoxxa))
-* ADN ([@deoxxa](https://alpha.app.net/deoxxa))
-* Email ([deoxxa@fknsrs.biz](mailto:deoxxa@fknsrs.biz))
+#### Credits:
+NajmunNahar on flaticon for the icon
