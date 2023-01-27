@@ -1,5 +1,7 @@
 name: NPM-Release
-on: push
+on: |
+  push
+  workflow_dispatch:
 
 jobs:
   publish:
