@@ -69,9 +69,6 @@ var adverbs = [
   "extremely",
   "fairly",
   "highly",
-  "kingly",
-  "knightly",
-  "queenly",
   "incredibly",
   "intensely",
   "legendary",
@@ -94,6 +91,7 @@ var adverbs = [
   "utterly",
   "very",
   "virtually",
+  "kind of",
 ];
 
 var makeCompliment = module.exports = function makeCompliment() {
