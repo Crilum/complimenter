@@ -87,7 +87,7 @@ var adverbs = [
   "incredibly",
   "intensely",
   "kind of",
-  "legendary",
+  "legendarily",
   "nearly",
   "perfectly",
   "positively",
