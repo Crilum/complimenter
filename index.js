@@ -11,9 +11,9 @@ var templates = [
   function() { return "I think " + getFinalTemplate(); },
   function() { return "You know, " + getFinalTemplate(); },
   function() { return "I hear " + getFinalTemplate(); },
-  function() { return "A little birdy told me " + getFinalTemplate(); },
+  function() { return "a little birdy told me " + getFinalTemplate(); },
   function() { return "I've always wanted to tell you, " + getFinalTemplate(); },
-  function() { return "Did you know " + getFinalTemplate(); },
+  function() { return "did you know " + getFinalTemplate(); },
 ].concat(finalTemplates);
 
 var abstractProperties = [
