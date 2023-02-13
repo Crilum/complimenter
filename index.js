@@ -1,7 +1,6 @@
 var finalTemplates = [
   function() { return "you have " + getAbstractProperty(); },
   function() { return "you are " + getDescriptor(); },
-  //function() { return "this is " + getDescriptor(); },
   function() { return "I am " + getDescriptor(); },
 ];
 
@@ -11,6 +10,10 @@ var templates = [
   function() { return "People say " + getFinalTemplate(); },
   function() { return "I think " + getFinalTemplate(); },
   function() { return "You know, " + getFinalTemplate(); },
+  function() { return "I hear " + getFinalTemplate(); },
+  function() { return "A little birdy told me " + getFinalTemplate(); },
+  function() { return "I've always wanted to tell you, " + getFinalTemplate(); },
+  function() { return "Did you know " + getFinalTemplate(); },
 ].concat(finalTemplates);
 
 var abstractProperties = [
@@ -21,6 +24,7 @@ var abstractProperties = [
 var tangibleSingularProperties = [
   "beauty",
   "being",
+  "breath",
   "demeanour",
   "face",
   "greatness",
@@ -34,7 +38,6 @@ var tangibleSingularProperties = [
   "voice",
   "way of thinking",
   "wonder",
-
 ];
 
 var tangibleMultipleProperties = [
@@ -58,6 +61,8 @@ var adjectives = [
   "radiant",
   "useful",
   "wonderful",
+  "neat",
+  "cool",
 ];
 
 var adverbs = [
@@ -77,6 +82,7 @@ var adverbs = [
   "faintly",
   "fairly",
   "gracefully",
+  "greatly",
   "highly",
   "incredibly",
   "intensely",
