@@ -5,15 +5,15 @@ var finalTemplates = [
 ];
 
 var templates = [
-  function() { return "I've always thought " + getFinalTemplate(); },
-  function() { return "9 out of 10 doctors say " + getFinalTemplate(); },
-  function() { return "People say " + getFinalTemplate(); },
-  function() { return "I think " + getFinalTemplate(); },
-  function() { return "You know, " + getFinalTemplate(); },
-  function() { return "I hear " + getFinalTemplate(); },
-  function() { return "a little birdy told me " + getFinalTemplate(); },
-  function() { return "I've always wanted to tell you, " + getFinalTemplate(); },
-  function() { return "did you know " + getFinalTemplate(); },
+  function() { return "I've always thought " + getFinalTemplate() + "." },
+  function() { return "9 out of 10 doctors say " + getFinalTemplate() + "." },
+  function() { return "People say " + getFinalTemplate() + "." },
+  function() { return "I think " + getFinalTemplate() + "." },
+  function() { return "You know, " + getFinalTemplate() + "." },
+  function() { return "I hear " + getFinalTemplate() + "." },
+  function() { return "a little birdy told me " + getFinalTemplate() + "." },
+  function() { return "I've always wanted to tell you, " + getFinalTemplate() + "." },
+  function() { return "did you know that " + getFinalTemplate() + "?" },
 ].concat(finalTemplates);
 
 var abstractProperties = [
