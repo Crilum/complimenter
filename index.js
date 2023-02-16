@@ -54,6 +54,7 @@ var adjectives = [
   "attractive",
   "beautiful",
   "incredible",
+  "golden",
   "nice",
   "perfect",
   "pleasing",
@@ -71,6 +72,7 @@ var adverbs = [
   "almost",
   "audibly",
   "awfully",
+  "astronomically",
   "cheerfully",
   "completely",
   "decidedly",
@@ -107,6 +109,7 @@ var adverbs = [
   "thoroughly",
   "totally",
   "utterly",
+  "unbelievably",
   "very",
   "virtually",
 ];
