@@ -47,7 +47,6 @@ var tangibleMultipleProperties = [
   "knees",
   "skills",
   "thoughts",
-  "thoughts",
 ];
 
 var adjectives = [
