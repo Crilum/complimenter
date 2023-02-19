@@ -8,6 +8,8 @@ var finalTemplates = [
 var templates = [
   function() { return "I've always thought " + getFinalTemplate() + "." },
   function() { return "9 out of 10 doctors say " + getFinalTemplate() + "." },
+  function() { return "1 out of 10 doctors say " + getFinalTemplate() + ", but that's good enough, right?" },
+  function() { return "The Armpit Hair Fairy told me " + getFinalTemplate() + "..." },
   function() { return "People say " + getFinalTemplate() + "." },
   function() { return "I think " + getFinalTemplate() + "." },
   function() { return "You know, " + getFinalTemplate() + "." },
@@ -39,15 +41,30 @@ var tangibleSingularProperties = [
   "voice",
   "way of thinking",
   "wonder",
+  "nose",
+  "hair",
+  "posture",
+  "style",
+  "words",
+  "spirit",
+  "intelligence",
+  "taste",
+  "face",
+  "features",
+  
 ];
 
 var tangibleMultipleProperties = [
   "ears",
   "eyes",
+  "eyebrows",
   "ideas",
   "knees",
+  "knuckles",
   "skills",
   "thoughts",
+  "typos",
+  "accomplishments",
 ];
 
 var adjectives = [
