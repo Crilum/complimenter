@@ -71,6 +71,7 @@ var tangibleMultipleProperties = [
 var adjectives = [
   "attractive",
   "beautiful",
+  "handsome",
   "incredible",
   "golden",
   "nice",
