@@ -331,7 +331,7 @@ const adjectives = [
   "tangible",
   "teachable",
   "tolerable",
-  "unaccaptable",
+  "unacceptable",
   "unamiable",
   "uncategorizable",
   "uncopyrightable",
